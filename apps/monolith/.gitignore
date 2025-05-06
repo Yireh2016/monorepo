@@ -1,0 +1,19 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# Python # 
+*.py[cod] 
+*$py.class 
+
+# Backup files # 
+*.bak 
+
+# libs
+site-packages/
